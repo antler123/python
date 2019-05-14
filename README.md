@@ -1,2 +1,2 @@
-# python
-python学习笔记
+# Python
+
